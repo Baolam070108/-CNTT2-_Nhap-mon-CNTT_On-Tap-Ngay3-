@@ -1,7 +1,7 @@
 # BÀI LÀM – ÔN TẬP NGÀY 3
 
 - Họ tên:Cao Bao Lam
-- Lớp:CNTT2
+- Lớp : CNTT2
 - Link repository:
 - Hệ điều hành (Windows/macOS): Windows
 
